@@ -1,0 +1,10 @@
+F:\CsharpCode\GetMoniorInfo\GetMoniorInfo\obj\Debug\GetMoniorInfo.csprojAssemblyReference.cache
+F:\CsharpCode\GetMoniorInfo\GetMoniorInfo\obj\Debug\GetMoniorInfo.Properties.Resources.resources
+F:\CsharpCode\GetMoniorInfo\GetMoniorInfo\obj\Debug\GetMoniorInfo.csproj.GenerateResource.cache
+F:\CsharpCode\GetMoniorInfo\GetMoniorInfo\obj\Debug\GetMoniorInfo.csproj.CoreCompileInputs.cache
+F:\CsharpCode\GetMoniorInfo\GetMoniorInfo\obj\Debug\GetMoniorInfo.Form1.resources
+F:\CsharpCode\GetMoniorInfo\GetMoniorInfo\bin\Debug\GetMoniorInfo.exe.config
+F:\CsharpCode\GetMoniorInfo\GetMoniorInfo\bin\Debug\GetMoniorInfo.exe
+F:\CsharpCode\GetMoniorInfo\GetMoniorInfo\bin\Debug\GetMoniorInfo.pdb
+F:\CsharpCode\GetMoniorInfo\GetMoniorInfo\obj\Debug\GetMoniorInfo.exe
+F:\CsharpCode\GetMoniorInfo\GetMoniorInfo\obj\Debug\GetMoniorInfo.pdb
